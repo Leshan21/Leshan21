@@ -17,4 +17,4 @@ I am an undergraduate Computer science and Engineering student at Eastern univer
   - mongodb
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 🎵 listen to music, and 🌴 explore nature outdoors.
