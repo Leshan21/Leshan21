@@ -12,9 +12,9 @@
 
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-    
+  <img align = "right" width = "400px" height = "450px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif">  
   <p align = "center">
- <img align = "right" width = "350px" height = "400px" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+ 
  
 - 🎓 Computer Science Undergraduate
 - 💻 Passionate about coding and problem-solving
