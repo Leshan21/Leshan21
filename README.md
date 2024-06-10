@@ -1,5 +1,8 @@
-
+<p align="center">
+  <img align="center" alt="Coding" width="150" src="https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"> <br> 
 <h1 align="center">Hi , I'm leshan pasindu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</p>
+  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -10,18 +13,16 @@
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
   <tr>  
-    <td><p align = "center"><img alt="Coding" width="250" src="https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"> <br>  
-    I am an undergraduate Computer science and Engineering<br> student at Eastern university of srilanka.
-    C++, java, Javascript,<br> HTML, mysql, and Shell are the programming languages I am good<br> at. I love to 
-    learn and build something new, productive, innovative and creative.</p>
-  
+    <td><p align = "center">
+      
+   - *I am an **undergraduate Computer science and Engineering** student at **Eastern university of srilanka**.*
+   - *C++, java, Javascript, HTML, mysql, and Shell are the programming languages I am good at.*
+   - *I love to learn and build something new, productive, innovative and creative.*
+   -  *I am interested in Web designing, Android development, and api development*</p>
   </td>
 
  <td>    
-   
-   **I am interested in Web designing, Android development, and api development**
-   
-   
+    
    - 🌱 I’m currently learning ...
 
      ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;<br>
