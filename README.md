@@ -13,25 +13,20 @@
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
  <hr>
-  <img align = "right" width = "400px" height = "400px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">  
-  <p align = "center">
+  <img align = "right" width = "300px" height = "300px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">  
+  
  
  
 - 🎓 Computer Science Undergraduate
 - 💻 Passionate about coding and problem-solving
-- 🌟 Interested in web development and app development   
-  </p>
- 
-  
-   
-    
-   - 🌱 I’m currently learning ...
+- 🌟 Interested in web development and app development
+- 🌱 I’m currently learning ...
 
-     ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;<br>
-     ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;<br>
-     ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;<br>
-     ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;<br>
-     ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;<br>
+     ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+     ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+     ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+     ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
+     ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
      
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
@@ -39,13 +34,20 @@
 
  
 <hr>
+<table><tr align = "center" border-style = "none">
+  <p align="center">
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img 
+  src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+    <td align = "center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshan21&layout=compact&theme=gotham&langs_count=8" /></p></td>
+    <td align = "center"><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Leshan21&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"" /></p></td>
+  </tr>
+  
+</table>
 
 
 ### 🚀💻 Technologies & Tools
 
 ### <u> Languages: </u>
-
-
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -101,8 +103,5 @@
 &nbsp;
 <hr>
 
-<p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Leshan21&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshan21&layout=compact&theme=gotham&langs_count=8" /></p>
+
 
