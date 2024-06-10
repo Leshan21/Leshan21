@@ -99,3 +99,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
+<hr>
+
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Leshan21&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshan21&layout=compact&theme=gotham&langs_count=8" /></p>
+
