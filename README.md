@@ -5,10 +5,10 @@
 </p>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <table>
-
+  
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
   <tr>  
     <td><p align = "center"><img alt="Coding" width="250" src="https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"> <br>  
     I am an undergraduate Computer science and Engineering<br> student at Eastern university of srilanka.
