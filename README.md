@@ -12,7 +12,8 @@
 
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-  <img align = "right" width = "400px" height = "450px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif">  
+ <hr>
+  <img align = "right" width = "400px" height = "400px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">  
   <p align = "center">
  
  
@@ -37,17 +38,14 @@
 - Outside tech, 🎵 listen to music, and 🌴 explore nature outdoors.
 
  
+<hr>
 
-
-<table>
-<tr>
-  <td colspan="2">
 
 ### 🚀💻 Technologies & Tools
 
 ### <u> Languages: </u>
 
-<br>
+
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -60,11 +58,8 @@
 </span>
 &nbsp;
 <br>
-</td>
-</tr>
 
-<tr>
-<td colspan="2">
+<hr>
 
 ### <u> Frontend Development Technologies and Tools: </u>
 
@@ -74,10 +69,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+<hr>
 
 ### <u> Backend Development + Database + Deployment Technologies & Tools: </u>
 
@@ -97,10 +89,7 @@
 </span>
 &nbsp;
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+<hr>
 
 ### <u> Version Control and Tools:</u>
 
@@ -110,8 +99,3 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
-
-</td>
-</tr>
-
-</table>
