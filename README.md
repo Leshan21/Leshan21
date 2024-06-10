@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Coding" width="150" src="https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"> <br> 
+  <img align="center" alt="Coding" width="150" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"> <br> 
 <h1 align="center">Hi , I'm leshan pasindu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
   
@@ -9,19 +9,20 @@
 
 
 
-<table>
+
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-  <tr>  
-    <td><p align = "center">
-      
-   - *I am an **undergraduate Computer science and Engineering** student at **Eastern university of srilanka**.*
-   - *C++, java, Javascript, HTML, mysql, and Shell are the programming languages I am good at.*
-   - *I love to learn and build something new, productive, innovative and creative.*
-   -  *I am interested in Web designing, Android development, and api development*</p>
-  </td>
-
- <td>    
+    
+  <p align = "center">
+ <img align = "right" width = "350px" height = "400px" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+ 
+- 🎓 Computer Science Undergraduate
+- 💻 Passionate about coding and problem-solving
+- 🌟 Interested in web development and data    
+  </p>
+ 
+  
+   
     
    - 🌱 I’m currently learning ...
 
@@ -35,10 +36,10 @@
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🎵 listen to music, and 🌴 explore nature outdoors.
 
- </td>
-  </tr>
+ 
 
 
+<table>
 <tr>
   <td align="center" colspan="2">
 
