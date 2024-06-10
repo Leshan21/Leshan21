@@ -41,7 +41,7 @@
 
 <table>
 <tr>
-  <td align="center" colspan="2">
+  <td colspan="2">
 
 ### 🚀💻 Technologies & Tools
 
@@ -64,7 +64,7 @@
 </tr>
 
 <tr>
-<td align="center" colspan="2">
+<td colspan="2">
 
 ### <u> Frontend Development Technologies and Tools: </u>
 
@@ -77,9 +77,9 @@
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td colspan="2">
 
-### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+### <u> Backend Development + Database + Deployment Technologies & Tools: </u>
 
 <br>
 
@@ -100,7 +100,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td colspan="2">
 
 ### <u> Version Control and Tools:</u>
 
