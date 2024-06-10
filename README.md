@@ -19,7 +19,7 @@
  
 - 🎓 Computer Science Undergraduate
 - 💻 Passionate about coding and problem-solving
-- 🌟 Interested in web development and data    
+- 🌟 Interested in web development and app development   
   </p>
  
   
