@@ -27,7 +27,7 @@
 <hr>
 <table><tr align = "center" border-style = "none">
   
-  <h2 align = "center">📈<b><i>GitHub Stats   </i></b></h2>
+  <h2>📈 | GitHub Stats</h2>
   
   <div align="center">
 
